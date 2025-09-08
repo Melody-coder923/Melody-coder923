@@ -13,6 +13,20 @@
 ## Blogs
 - [Personal website and blog](https://melody-coder923.github.io)
 
+### Software & AI Projects | Open Source Contributions
+
+- **Built AI-agent travel chatbot** with Agno, Groq, and ChromaDB; fine-tuned model weights and open-sourced them.
+- **Open source contributor** to notable open-source projects including:
+  - HuggingFace Transformers
+  - LangChain
+  - JAX
+- **Studied the foundational paper "ZeRo"** and implemented a **DeepSpeed + PyTorch** project for efficient distributed training and evaluation, optimizing resource usage and training speed for large-scale deep learning tasks.
+- **Implemented data parallelism for MNIST training** with JAX's shardmap sharding API and contributed to OSS JAX.
+- **Built and extended Micrograd**, a minimal autograd engine, as part of self-study of Karpathy's Zero to Hero series:
+  - Implemented the `Value` class, topological sort–based backpropagation, and dynamically constructed computation graph (DAG).
+  - Added custom operations (e.g., exponentiation, ReLU, tanh), visualized graph structures, and built training loop for an MLP.
+  - Reinforced understanding of the chain rule, gradient descent, and autograd principles through end-to-end implementation.
+
 ## Projects:
 ### 1. [Travel-Agent-App](https://github.com/Melody-coder923/Travel-Agent-App)
 - AI project to plan travel itineraries.
