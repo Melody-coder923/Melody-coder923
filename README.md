@@ -13,7 +13,7 @@
 ## Blogs
 - [Personal website and blog](https://melody-coder923.github.io)
 
-### Software & AI Projects | Open Source Contributions
+## Software & AI Projects | Open Source Contributions
 
 - **Built AI-agent travel chatbot** with Agno, Groq, and ChromaDB; fine-tuned model weights and open-sourced them.
 - **Open source contributor** to notable open-source projects including:
