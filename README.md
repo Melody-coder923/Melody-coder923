@@ -9,7 +9,7 @@
 ## Interests
 - AI Software Development
 - Machine Learning
-- Web Design
+- Web Development(Full Stack)
 
 ## Blogs
 - [Personal website and blog](https://melody-coder923.github.io)
