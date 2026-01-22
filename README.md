@@ -2,7 +2,7 @@
 
 ## About me:
 - Currently pursuing a Master's degree in Software Engineering at Northeastern University.
-- I serves as a Teaching Assistant of graduate students in Northeastern university from Sep 2025 until now
+- I serves as a Teaching Assistant of graduate students in Northeastern university from Sep 2025 until now.
 - I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 - How to reach me: [zhao.y4@northeastern.edu](mailto:zhao.y4@northeastern.edu)
 - Fun fact: I've visited more than 56 countries.
